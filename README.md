@@ -1,4 +1,3 @@
 # PREMIERE Droplets
 
-Droplet experiment generation using Generative adversarial networks (GANs)
-
+Droplet experimental data generation using Variational Autoencoder (VAE)
